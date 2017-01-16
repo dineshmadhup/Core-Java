@@ -1,0 +1,8 @@
+Name	Salary	Department	TotalProjects
+Peter	100000.0	Electrical	2
+Central Warehouse	500000.0
+Control Office	20000.0
+Jim	1200000.0	Software	3
+Company website	50000.0
+Shooting game	2000.0
+Word processor	10000.0
